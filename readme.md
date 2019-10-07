@@ -51,7 +51,15 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 ![](/img/3.png)
 
 ## Screenshot hasil
-masukkan screenshot output disini
+
+SOAL 1
+![tugas 3 1](https://user-images.githubusercontent.com/55954995/66297049-165a9480-e919-11e9-956e-712169f6f5dd.JPG)
+
+SOAL 2
+![tugas 3 2](https://user-images.githubusercontent.com/55954995/66297050-165a9480-e919-11e9-8e92-a809b5f6b840.JPG)
+
+EXTRA MILE
+![tugas 3 3](https://user-images.githubusercontent.com/55954995/66297052-165a9480-e919-11e9-8f42-c3911543a365.JPG)
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
